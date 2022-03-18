@@ -1,0 +1,12 @@
+Layer,	Output size
+Input,	640
+Enc-Block1,	128
+Enc-Block2,	128
+Enc-Block3,	128
+Enc-Block4,	128
+Bottleneck,	8
+Dec-Block1,	128
+Dec-Block2,	128
+Dec-Block3,	128
+Dec-Block4,	128
+Output,	640
